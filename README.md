@@ -9,7 +9,7 @@ A Serverless Framework plugin for deployment of static website assets of your Se
 ## Installation
 
 ```
-npm install --save serverless-finch
+npm install --save @authdog/serverless-finch
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ npm install --save serverless-finch
 
 ```yaml
 plugins:
-  - serverless-finch
+  - "@authdog/serverless-finch"
 
 custom:
   client:
