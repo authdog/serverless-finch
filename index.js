@@ -8,7 +8,7 @@ const Confirm = require('prompt-confirm');
 const bucketUtils = require('./lib/bucketUtils');
 const configure = require('./lib/configure');
 const regionUrls = require('./lib/resources/awsRegionUrls');
-const uploadDirectory = require('./lib/upload');
+const { uploadDirectory } = require('./lib/upload');
 const validateClient = require('./lib/validate');
 
 class Client {
@@ -161,7 +161,7 @@ class Client {
         errorDoc = this.options.errorDocument || 'error.html';
         redirectAllRequestsTo = this.options.redirectAllRequestsTo || null;
         routingRules = this.options.routingRules || null;
-        tags = this.options.tags || []
+        tags = this.options.tags || [];
 
         const deployDescribe = ['This deployment will:'];
 
