@@ -1,4 +1,4 @@
-# serverless-finch
+# Authdog's fork of serverless-finch
 
 [![npm](https://img.shields.io/npm/dm/serverless-finch.svg)](https://www.npmjs.com/package/serverless-finch)
 [![npm](https://img.shields.io/npm/v/serverless-finch.svg)](https://www.npmjs.com/package/serverless-finch)
