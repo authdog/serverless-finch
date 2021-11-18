@@ -1,7 +1,7 @@
 # Authdog's fork of serverless-finch
 
-[![npm](https://img.shields.io/npm/dm/serverless-finch.svg)](https://www.npmjs.com/package/serverless-finch)
-[![npm](https://img.shields.io/npm/v/serverless-finch.svg)](https://www.npmjs.com/package/serverless-finch)
+[![npm](https://img.shields.io/npm/dm/serverless-finch.svg)](https://www.npmjs.com/package/@authdog/serverless-finch)
+[![npm](https://img.shields.io/npm/v/serverless-finch.svg)](https://www.npmjs.com/package/@authdog/serverless-finch)
 [![license](https://img.shields.io/github/license/fernando-mc/serverless-finch.svg)](https://github.com/fernando-mc/serverless-finch/blob/master/LICENSE)
 
 A Serverless Framework plugin for deployment of static website assets of your Serverless project to AWS S3.
