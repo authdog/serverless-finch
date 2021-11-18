@@ -1,6 +1,6 @@
 {
   "name": "@authdog/serverless-finch",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "engines": {
     "node": ">=4.0"
   },
