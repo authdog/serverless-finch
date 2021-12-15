@@ -502,5 +502,6 @@ For guidelines on contributing to the project, please refer to our [Contributing
 - [josephnle](https://github.com/josephnle)
 - [triptec](https://github.com/triptec)
 - [itsjesseyo](https://github.com/itsjesseyo)
+- [dbrrt](https://github.com/dbrrt)
 
 Forked from the [**serverless-client-s3**](https://github.com/serverless/serverless-client-s3/)
